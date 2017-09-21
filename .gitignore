@@ -1,0 +1,6 @@
+#Ignore .idea 
+GitTask/.idea/
+#Ignore iml files
+*.iml
+#Ignore temporary files
+*.tmp
